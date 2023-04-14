@@ -1,2 +1,2 @@
 #!/bin/bash
--rwxr--r--
+chmod hello+x 5-execute.sh
